@@ -1,0 +1,22 @@
+{
+    "Camisas": [
+        {
+            "name": "Boku no Hero T-shirt",
+            "price": 100,
+            "color": "",
+            "id": 1
+        },
+        {
+            "name": "Naruto T-shirt",
+            "price": 120,
+            "color": "",
+            "id": 2
+        },
+        {
+            "name": "Tokyo Ghoul T-shirt",
+            "price": 90,
+            "color": "",
+            "id": 3
+        }
+    ]
+}
